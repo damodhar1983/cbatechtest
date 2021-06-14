@@ -1,15 +1,19 @@
-**cbatechtest**
+#cbatechtest
 
-Project Title:  cbatechtest
+#Project Title:  
+cbatechtest
 
-Framework , tools and coding language used.
+#Framework , tools and coding language used.
 Programming Language :Java
 
-Framework :BDD Framework ,Data Driven
+#Framework :
+BDD Framework ,Data Driven
 
-Automation tool : Selenium
+#Automation tool :
+Selenium
 
-Build tool: Maven
+#Build tool:
+Maven
 
 Getting Started:
 These instructions will get you a copy of the project up and running on your local machine .
