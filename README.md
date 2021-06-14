@@ -1,6 +1,6 @@
 **cbatechtest**
 
-**Project Title: ** cbatechtest
+Project Title:  cbatechtest
 
 Framework , tools and coding language used.
 Programming Language :Java
