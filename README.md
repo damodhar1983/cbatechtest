@@ -1,18 +1,18 @@
-#cbatechtest
+# cbatechtest
 
-#Project Title:  
+# Project Title:  
 cbatechtest
 
-#Framework , tools and coding language used.
+# Framework , tools and coding language used.
 Programming Language :Java
 
-#Framework :
+# Framework :
 BDD Framework ,Data Driven
 
-#Automation tool :
+# Automation tool :
 Selenium
 
-#Build tool:
+# Build tool:
 Maven
 
 Getting Started:
