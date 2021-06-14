@@ -1,7 +1,5 @@
-# cbatechtest
 
-# Project Title:  
-cbatechtest
+# Project Title:  cbatechtest
 
 # Framework , tools and coding language used.
 Programming Language :Java
@@ -15,13 +13,13 @@ Selenium
 # Build tool:
 Maven
 
-Getting Started:
+# Getting Started:
 These instructions will get you a copy of the project up and running on your local machine .
 
-Prerequisites
+# Prerequisites
 Install java ,Maven , IDE( Eg. eclipse)
 
-Running the tests
+# Running the tests
 clone the repository and store in local system.
 
 project location = the location of the project on your local system
@@ -60,22 +58,22 @@ run the following command in the command prompt:
 mvn test
 4.You would notice that Testrunner file is executed.
 
-Reports
+# Reports
 Once the Exeuction is completed Refresh the project
 
 We will get two type of reports after the execution
 
-Cucumber HTML Reports:
+# Cucumber HTML Reports:
 To check the HTML reports Navigate to the below path
 
 Go to project folder -→Target-→htmlreports-→index.html
 
-Cucumber Extent Reports:
+# Cucumber Extent Reports:
 Go to project folder -→target -→ cucumber-reports -→ report.html
 
 
 
- Run the Testrunner.
+ # Run the Testrunner.
 
 The automation suite will be executed
 
