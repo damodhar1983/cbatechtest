@@ -1,39 +1,38 @@
 # cbatechtest
-Project Title
-cbatechtest
+**Project Title **: cbatechtest
 
 **Framework , tools and coding language used.**
 Programming Language :Java
 
-Framework :BDD Framework ,Data Driven
+**Framework** :BDD Framework ,Data Driven
 
-Automation tool : Selenium
+**Automation tool** : Selenium
 
-Build tool: Maven
+**Build tool**: Maven
 
-Getting Started
+**Getting Started**
 These instructions will get you a copy of the project up and running on your local machine .
 
-Prerequisites
+**Prerequisites**
 Install java ,Maven , IDE( Eg. eclipse)
 
-Running the tests
+**Running the tests**
 clone the repository and store in local system.
 
-project location = the location of the project on your local system
+****project location = the location of the project on your local system
 
-Location of the automation scripts :
+**Location of the automation scripts **:
 
 projectlocation\src\test\java
 
-Feature file path : projectlocation\src\test\java\features\
+**Feature file path** : projectlocation\src\test\java\features\
 
-Runner file path : projectlocation\src\test\java\runner\
+**Runner file path** : projectlocation\src\test\java\runner\
 
-Step Definition path: projectlocation\src\test\java\seleniumgluecode\
+**Step Definition path**: projectlocation\src\test\java\seleniumgluecode\
 
 ------------------------------------------------
-changing the chrome driver path is optional:
+**changing the chrome driver path is optional**:
 open the project in any IDE(example: eclipse).
 
 I have uploaded the chromedriver to the repository. The runner class will pick the chromedriver which is in the project folder itself.
@@ -71,6 +70,6 @@ Go to project folder -→target -→ cucumber-reports -→ report.html
 
 
 
- Run the Testrunner.
+** Run the Testrunner.**
 
 The automation suite will be executed 
