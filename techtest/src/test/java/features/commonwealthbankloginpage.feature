@@ -6,7 +6,7 @@ Feature: Selecting travel money and navigate to login page of common wealth bank
     When Search for travel money overseas
     And verify the subtopics exists as expected
     And click on logon button
-    Then verify id and password fields are displayed correctly
+    Then verify id and password fields are displayed
 
     Examples: 
       | URL                               | 
